@@ -1,0 +1,9 @@
+-> main.py: Entry point for the program.
+
+-> code_generator.py: Handles code generation/modification.
+
+-> tester.py: Runs unit tests on generated code.
+
+-> version_control.py: Manages version history using Git.
+
+-> objectives.json: Stores user-defined objectives.
