@@ -1,0 +1,8 @@
+{
+    "task_1": {
+        "description": "optimize a bubble sort algorithm for faster performance"
+    },
+    "task_2": {
+        "description": "create a function to calculate Fibonacci numbers recursively"
+    }
+}
