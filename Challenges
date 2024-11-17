@@ -1,0 +1,11 @@
+Code Safety:
+    Generated code might introduce vulnerabilities or break existing features.
+
+Test Coverage:
+    Requires comprehensive test cases to validate new changes.
+
+AI Dependency:
+    Relies heavily on the quality of AI-generated code, which may sometimes fail for complex tasks.
+
+Debugging Complexity:
+    Debugging auto-generated code can be challenging without clear documentation.
