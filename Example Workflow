@@ -1,0 +1,25 @@
+User Input:
+    
+    [input by user]: Optimize function 'calculate_distance' for speed.
+
+    Code Generator Output: The system analyzes calculate_distance and suggests replacing a nested loop with a vectorized approach using NumPy.
+
+Generated Code:
+
+    [python code]: import numpy as np
+
+                  def calculate_distance(points):
+                      # Using NumPy for vectorized computation
+                      distances = np.sqrt(np.sum(points**2, axis=1))
+                      return distances
+
+Validation:
+
+    Runs tests to ensure functionality is intact.
+    Benchmarks runtime to verify optimization.
+
+Versioning:
+
+    Commits the change to the repository with a message:
+
+    [arduino code]:  Optimized calculate_distance using NumPy for faster execution.
