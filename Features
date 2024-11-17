@@ -1,0 +1,14 @@
+Automated Refactoring:
+    Identify inefficiencies or redundant code and replace them with optimized versions.
+
+Task Expansion:
+    Add new modules or features based on user requirements, such as adding a REST API to an existing application.
+
+Error Debugging:
+    Automatically diagnose and fix runtime or logical errors in the code.
+
+Performance Optimization:
+Analyze bottlenecks (e.g., through cProfile) and propose optimizations.
+
+Extensibility:
+    Supports plugins or external libraries for more advanced features.
