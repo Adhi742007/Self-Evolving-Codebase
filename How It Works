@@ -1,0 +1,11 @@
+User Inputs Objectives:
+    Objectives are defined in objectives.json.
+  
+Code Generation:
+    code_generator.py generates new code based on the objective using AI.
+
+Testing:
+    tester.py runs predefined tests on the generated code to ensure it meets the requirements.
+  
+Version Control:
+    version_control.py commits the changes if the tests pass or reverts them if they fail.
